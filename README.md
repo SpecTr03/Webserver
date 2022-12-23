@@ -18,5 +18,5 @@
 <img src="https://user-images.githubusercontent.com/64670953/177218510-1abd1b80-4f8f-4747-bed1-686a615a951a.svg" alt="visualstudiocode" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="visualstudiocode" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="visualstudiocode" width="40" height="40"/> 
-<img src="https://icongr.am/devicon/handlebars-original.svg?size=128&color=currentColor" alt="visualstudiocode" width="40" height="40"/> 
+<img src="https://icongr.am/devicon/handlebars-original.svg?size=114&color=ffffff" alt="visualstudiocode" width="40" height="40"/> 
 <img src="https://skillicons.dev/icons?i=express" />
